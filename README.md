@@ -20,3 +20,5 @@ When you ban or unban a player, it will broadcast a message on your server sayin
 
 #Note
 NEVER edit the IPBanList.yml or BanList.yml EXCEPT for removed manually a player. It may cause issues.
+
+Signed CupidonSauce173. Check out my server : pvpcryoservers.com default port
